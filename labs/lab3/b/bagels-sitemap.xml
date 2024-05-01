@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset schemalocation="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>bagels-new-resume.html</loc>
+        <priority>1</priority>
+        <changefreq>bi-monthly</changefreq>
+    </url>
+    <url>
+        <loc>bagels-new-resume-credits.html</loc>
+        <priority>0.2</priority>
+        <changefreq>bi-monthly</changefreq>
+    </url>
+    <url>
+        <loc>bagels-new-resume-education.html</loc>
+        <priority>0.8</priority>
+        <changefreq>bi-monthly</changefreq>
+    </url>
+    <url>
+        <loc>bagels-new-resume-honors.html</loc>
+        <priority>0.7</priority>
+        <changefreq>bi-monthly</changefreq>
+    </url>
+    <url>
+        <loc>bagels-new-resume-work.html</loc>
+        <priority>0.9</priority>
+        <changefreq>bi-monthly</changefreq>
+    </url>
+</urlset>

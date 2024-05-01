@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+    background-color: red;
+    color: white
+}
+nav li {
+    background-color: beige;
+    padding: 0.1%;
+    margin: 1.5%;
+    text-decoration: none;
+    color: black;
+    border: black 3px solid;
+    display: inline
+}
+nav {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    display: inline;
+    background-color: #6D2932;
+}
+nav ul {
+    background-color: black;
+    padding-bottom: 0.2%;
+    padding-top: 0.2%;
+}
+nav a {
+    text-decoration: none;
+    color: darkred
+}
+div {
+    text-align: center;
+    background-color: darkred;
+    padding: 1% 0%;
+    color: white;
+}
+footer {
+    text-align: center;
+    background-color: red;
+    color: white
+}
+div a{
+    color: white;
+}
+footer a {
+    color: white;
+}
+div ul {
+    list-style: none;
+}

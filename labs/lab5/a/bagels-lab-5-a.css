@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+#page-wrapper {
+    width: 50%;
+    margin: auto
+}
+p {
+    background-color: darkred;
+    color: whitesmoke;
+}
+h3 {
+    color: darkred;
+    font-variant: small-caps;
+}
+h1 {
+    color: darkred;
+    font-variant: small-caps;
+}
+ul {
+    border: darkred 3px dashed;
+}
+ol {
+    margin: 2% 1% 0;
+    color: darkolivegreen;
+}
+#ol1 {
+    background-color: blue;
+}
+#ol2 {
+    background-color: lightblue;
+}
+#ol3 {
+    background-color: darkblue;
+}
+#ol4 {
+    background-color: cornflowerblue;
+}
+#ol5 {
+    background-color: darkslateblue;
+}
+#ul1 {
+    color: green;
+}
+#ul2 {
+    color: greenyellow;
+}
+#ul3 {
+    color: darkolivegreen;
+}
+#ul4 {
+    color: mediumseagreen;
+}
+#ul5 {
+    color: lightseagreen;
+}
+#ul6 {
+    color: limegreen;
+}
+.word {
+    color: saddlebrown;
+}

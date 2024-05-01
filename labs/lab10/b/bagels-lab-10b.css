@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: calc(2px + 2vw);
+    background-color: #18A7AD;
+}
+#page-wrapper{
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+}
+button {
+    background-color: lightgreen;
+    padding: 2%;
+    margin: 2%;
+    text-decoration: none;
+    border: black 3px solid;
+}

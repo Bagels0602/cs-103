@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: calc(2px + 2vw);
+    background-color: #18A7AD;
+    width: 50vw;
+
+}

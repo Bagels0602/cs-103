@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    margin: auto;
+    background-color: darkred;
+    text-align: center;
+}
+ol {
+    color: white;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+header {
+    background-color: darkred
+}
+header p {
+    color: white
+}
+main p {
+    margin: 0;
+    padding: 0;
+    color: white;
+    border: black 3px solid;
+}
+h1 {
+    color: white
+}
+ul {
+    background-color: white;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+nav li {
+    background-color: black;
+    padding: 0.2%;
+    margin: 1.5%;
+    text-decoration: none;
+    color: darkred;
+    border: black 3px solid;
+    display: inline
+}
+nav {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    display: inline
+}
+nav a {
+    text-decoration: none;
+    color: darkred
+}
+main {
+    background-color: darkred
+}
+main ol {
+    margin: 0;
+    padding: 0;
+    border: black 3px solid
+}
+footer {
+    background-color: white
+}
+
+

@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+    background-color: #18A7AD;
+    color: white;
+}
+nav li {
+    background-color: beige;
+    padding: 0.1%;
+    margin: 1%;
+    text-decoration: none;
+    color: black;
+    border: black 3px solid;
+    display: inline;
+    font-size: calc(6px + 1vw);
+}
+nav {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+}
+nav ul{
+    background-color: #C2A980;
+    margin: auto;
+}
+nav a {
+    text-decoration: none;
+    color: darkred
+}
+div{
+    background-color: darkslategray;
+    padding: 1% 0;
+    color: white;
+}
+footer {
+    text-align: center;
+    background-color: #18A7AD;
+    color: white
+}
+footer a {
+    color: white;
+}
+h3 {
+    text-align: center;
+    margin: auto;
+}
+p {
+    text-align: center;
+    margin: auto;
+}
+
+body ul {
+    color: black
+}
+body ol li {
+    text-decoration: none;
+    margin: 2%
+}
+h2 {
+    text-align: center;
+}
+div ol li {
+    color: white;
+}
+div ol li a {
+    color: white
+}
+@media screen and (max-width: 520px){
+    #container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        font-size: calc(6px + 1vw);
+    }
+    nav li {
+        background-color: beige;
+        padding: 0.1%;
+        margin: 1%;
+        text-decoration: none;
+        color: black;
+        border: black 3px solid;
+        display: inline;
+        font-size: calc(6px + 1vw)
+    }
+    footer {
+        font-size: calc(6px + 1vw);
+    }
+    header {
+        font-size: calc(6px + 1vw);
+    }
+}
+@media screen and (max-width: 1000px){
+    #container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        font-size: calc(6px + 1vw);
+    }
+    nav li {
+        background-color: beige;
+        padding: 0.1%;
+        margin: 1%;
+        text-decoration: none;
+        color: black;
+        border: black 3px solid;
+        display: inline;
+        font-size: calc(6px + 1vw)
+    }
+    footer {
+        font-size: calc(6px + 1vw);
+    }
+    header {
+        font-size: calc(6px + 1vw);
+    }
+}
+main{
+    width: 100%;
+}

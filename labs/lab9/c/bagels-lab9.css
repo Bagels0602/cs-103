@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: lightcoral;
+    height: 100%;
+    font-size: calc(2px + 2.5vw);
+    display: flex;
+}
+#page-wrapper{
+    background-color: yellowgreen;
+    margin: 30vw;
+}
+@media screen and (max-width: 750px){
+    #page-wrapper {
+        flex-direction: column;
+    }
+}
